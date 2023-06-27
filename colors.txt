@@ -1,0 +1,12 @@
+Black
+White 
+Grey 
+Blue 
+Green 
+Red 
+Orange
+Teal
+Pink
+Purple
+Brown
+Yellow
